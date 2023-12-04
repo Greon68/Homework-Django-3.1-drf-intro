@@ -1,0 +1,4 @@
+django
+djangorestframework
+psycopg2-binary
+django-dump-load-utf8==0.0.4
